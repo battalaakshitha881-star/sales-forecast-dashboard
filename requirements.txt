@@ -1,5 +1,5 @@
-pandas
-streamit
+﻿pandas
+streamlit
 scikit-learn
 plotly
 openpyxl
